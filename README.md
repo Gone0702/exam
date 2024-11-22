@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
+![image](https://github.com/user-attachments/assets/366ac797-d548-4090-9f19-6130a727ef2a)
+
 
 # 예제 - 음식배달
 
@@ -6,6 +7,8 @@
 1. dd
 2. dd
 3. Event Storming
+   ![image](https://github.com/user-attachments/assets/29ac21ad-3059-4aeb-9b3d-9c811ca10fd1)
+
 
 본 예제는 MSA/DDD/Event Storming/EDA 를 포괄하는 분석/설계/구현/운영 전단계를 커버하도록 구성한 예제입니다.
 이는 클라우드 네이티브 애플리케이션의 개발에 요구되는 체크포인트들을 통과하기 위한 예시 답안을 포함합니다.
