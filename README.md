@@ -4,7 +4,8 @@
 # 평가 시스템
 
 1. Event Storming
-   ![image](https://github.com/user-attachments/assets/1ea42fd8-19a4-4a58-b510-45fdecc4a40d)
+  ![image](https://github.com/user-attachments/assets/750e771c-610a-458b-82f4-a71e20b97125)
+
 
 
 # 서비스 시나리오
@@ -45,7 +46,8 @@
 
 ### 완성된 모형
 
-![image](https://github.com/user-attachments/assets/1ea42fd8-19a4-4a58-b510-45fdecc4a40d)
+![image](https://github.com/user-attachments/assets/6b1e6b25-4090-4696-99fe-c63f7b548978)
+
 
 
 ### 1차 완성본에 대한 기능적/비기능적 요구사항을 커버하는지 검증
